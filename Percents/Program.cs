@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DZ___ZKO
+namespace Percents
 {
     class Program
     {
